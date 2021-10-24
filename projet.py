@@ -64,7 +64,7 @@ class Monitoring(QWidget):
 
 
         self.Psatus = QProgressBar(self,maximum=32767,textVisible=False)
-        self.Plabel = QLabel('Valeur HR 400000',self)
+        self.Plabel = QLabel('Valeur HR 40001',self)
 
         self.Lstatus = QProgressBar(self,maximum=1,textVisible=False)
         self.Llabel = QLabel ('LIGHT',self)
