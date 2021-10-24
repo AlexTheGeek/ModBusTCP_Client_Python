@@ -7,7 +7,7 @@ Le script Python utilise PyQt5 et pymodbus, installez les avec la commande suiva
 pip install PyQt5 pymodbus
 ```
 
-Puis importer le script Python.
+Puis importez le script Python.
 
 # Exécution
 Démarrer un serveur ModBusTCP, tel que celui-ci : https://sourceforge.net/projects/modrssim2/.
