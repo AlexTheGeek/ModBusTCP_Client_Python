@@ -19,6 +19,15 @@ python3 projet.py ip port
 * port correspond au port du serveur ModBus.
 
 Voici une petite vidéo de ce que vous pouvez faire et voir avec ce client disponible sur [YouTube](https://youtu.be/KyKGT7kPINM).
-Et pour plus d'explication voici cette vidéo (bientôt disponible).
 
 
+
+# Capture d'écran du Client et explication
+Client sans lumière rouge :
+
+Client avec lumière rouge :
+
+La jauge bleu correspond à la valeur dans la case 40001 sur 32767.
+La lumière rouge apparait dès lors que la valeur dans la case 4000 est exactement à 10000.
+
+Pour plus d'explication voici une petite vidéo (bientôt disponible).
