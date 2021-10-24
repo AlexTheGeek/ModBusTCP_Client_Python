@@ -23,9 +23,11 @@ Voici une petite vidéo de ce que vous pouvez faire et voir avec ce client dispo
 
 
 # Capture d'écran du Client et explication
-Client sans lumière rouge :
+Client sans lumière rouge :  
+![pas rouge](https://github.com/AlexTheGeek/ModBusTCP_Client_Python/blob/main/Screenshots/client_modbus_without_light.png)
 
-Client avec lumière rouge :
+Client avec lumière rouge :  
+![rouge](https://github.com/AlexTheGeek/ModBusTCP_Client_Python/blob/main/Screenshots/client_modbus_with_light.png)
 
 La jauge bleu correspond à la valeur dans la case 40001 sur 32767.
 La lumière rouge apparait dès lors que la valeur dans la case 4000 est exactement à 10000.
