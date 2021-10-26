@@ -32,4 +32,7 @@ Client avec lumière rouge :
 La jauge bleu correspond à la valeur dans la case 40001 sur 32767.
 La lumière rouge apparait dès lors que la valeur dans la case 40001 est exactement à 10000.
 
-Pour plus d'explication voici une petite vidéo (bientôt disponible).
+# Crédit 
+Damien Briquet   
+Alexis Brunet  
+INSA CVL - 4A MRI-SA
